@@ -12,32 +12,32 @@ _In 1992, the Internet was released to the public, which unleashed a lot of prog
 
 ### Steve Jobs - Apple
 
-![alt text](https://github.com/avinash2459/History-of-Internet/images/apple.jpeg "Steve Jobs")
+![alt text](https://github.com/avinash2459/History-of-Internet/blob/main/images/apple.jpeg "Steve Jobs")
 
 ### Bill Gates - Microsoft
 
-![alt text](https://github.com/avinash2459/History-of-Internet/images/microsoft.jpeg "Bill Gates")
+![alt text](https://github.com/avinash2459/History-of-Internet/blob/main/images/microsoft.jpeg "Bill Gates")
 
 ### Jeff Bezos - Amazon
 
-![alt text](https://github.com/avinash2459/History-of-Internet/images/amazon.jpeg "Jeff Bezos")
+![alt text](https://github.com/avinash2459/History-of-Internet/blob/main/images/amazon.jpeg "Jeff Bezos")
 
 ### Larry Page - Google
 
-![alt text](https://github.com/avinash2459/History-of-Internet/images/google.jpeg "Larry Page")
+![alt text](https://github.com/avinash2459/History-of-Internet/blob/main/images/google.jpeg "Larry Page")
 
 ### Mark Zuckerberg - Facebook
 
-![alt text](https://github.com/avinash2459/History-of-Internet/images/facebook.jpeg "Mark Zuckerberg")
+![alt text](https://github.com/avinash2459/History-of-Internet/blob/main/images/facebook.jpeg "Mark Zuckerberg")
 
 ### Tim Berners-Lee - Founder of Web
 
-![alt text](https://github.com/avinash2459/History-of-Internet/images/TimBerners.jpeg "Tim Berners Lee")
+![alt text](https://github.com/avinash2459/History-of-Internet/blob/main/images/TimBerners.jpeg "Tim Berners Lee")
 
 ### Marc Andeerson & James Clark - Netscape
 
-![alt text](https://github.com/avinash2459/History-of-Internet/images/MarcAndeerson.jpeg "Marc Andeerson and James Clark")
+![alt text](https://github.com/avinash2459/History-of-Internet/blob/main/images/MarcAndeerson.jpeg "Marc Andeerson and James Clark")
 
 ### Pierre Morad Omidyar - eBay
 
-![alt text](https://github.com/avinash2459/History-of-Internet/images/pierre.jpeg "Pierre Morad Omidyar")
+![alt text](https://github.com/avinash2459/History-of-Internet/blob/main/images/pierre.jpeg "Pierre Morad Omidyar")
