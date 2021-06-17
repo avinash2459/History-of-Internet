@@ -7,3 +7,28 @@
 *By 1971, ARPANET had 18 mainframe computers connected to the network.Later using the same technique, an app was developed called “EMAIL”. This email became the killer app for ARPANET. RFC(Request For Comments) was introduced which is to get ideas/bugs from the users so that the technology can be improved.Later, the development of computer networks took off and had a growth in the western part of the world. LAN’s were introduced to link computers through offices and WAN’s were used to link computers across buildings.In 1973, Vint Cerf and Bob Kahn, developed a set of rules called TCP/IP protocols, if followed by computers, they can transfer data to and fro. TCP/IP enabled the networks to interconnect, the computer and network which uses protocol can be communicated via “Gateway”.In 1983, TCP/IP was adopted as a universal standard so that the Internet can be unified.*
 
 *In 1992, the Internet was released to the public, which unleashed a lot of progress.This resulted in a lot of developments in the internet. Desktops were introduced for easy access of computers via ethernet.The World Wide Web is introduced which enables users to access websites using a link. This gave the internet a capability beyond file transfer and emails. Still in 1992 there were only 52 websites.In 1993, a web browser called MOSAIC was introduced which helped users to access content. This turned the internet into a graphically rich world which can display text, scroll bars and links to access. This increased the usage of WEB to 350%*
+
+## Personalities who played a vital role in Internet Breakthrough
+
+### Steve Jobs - Apple
+
+
+### Bill Gates - Microsoft
+
+
+### Jeff Bezos - Amazon
+
+
+### Larry Page - Google
+
+
+### Mark Zuckerberg - Facebook
+
+
+### Tim Berners-Lee - Founder of Web
+
+
+### Marc Andeerson & James Clark - Netscape
+
+
+### Pierre Morad Omidyar - eBay
