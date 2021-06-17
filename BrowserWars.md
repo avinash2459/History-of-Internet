@@ -2,7 +2,7 @@
 
 **After the development of the World Wide Web, many companies took this as an opportunity to excel in this area by developing their own Applications and Systems.**
 
-# Netscape
+### Netscape
 
 *Using this idea of the browser MOSAIC, Clarke, founder of Silicon Graphics, contacted Anderseen who invented Mosaic, to take the browser to the next level which contains audio, images etc. They have started a company called Netscape.*
 
@@ -13,7 +13,7 @@
 *Later Netscape introduced an IPO for selling the shares of their company and succeeded in earning more profit within no time.
 After losing to Microsoft, Netscape has sold its business to AOL.*
 
-# Microsoft
+### Microsoft
 
 *Bill Gates, CEO of Microsoft, started to build computers and was successful in making the world use Microsoft's PC’s all over the world. This helped Microsoft to excel in the world of internet overcoming all the competitors.*
 
