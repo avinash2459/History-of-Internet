@@ -22,5 +22,3 @@ History of Internet, Browser Wars, Google, Amazon, ARPANET, Netscape, Microsoft,
 ### Website Title
 History of Internet
 
-### Page Title
-
